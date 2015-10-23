@@ -6,7 +6,7 @@ Based on DaveRandom's cloud to butt (https://github.com/DaveRandom/cloud-to-butt
 
 ## Installing
 
-Download [Henifier.xpi] https://github.com/Nattfrosten/henifier-mozilla/raw/master/Henifier.xpi
+Download [Henifier.xpi](https://github.com/Nattfrosten/henifier-mozilla/raw/master/Henifier.xpi)
 
 
 ## Building
